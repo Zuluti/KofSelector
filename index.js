@@ -4,7 +4,7 @@
 const character = [
     
     {
-        nome: 'iori',
+        nome: 'Iori',
         img: 'img/kof-char/iori.gif',
         text: 'Iori é o último descendente do clã Yagami, uma linhagem que se tornou condenada a viver por um curto período de tempo, por causa do sangue de Orochi que circula em suas veias',
     } ,
